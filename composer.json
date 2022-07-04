@@ -3,33 +3,17 @@
     "type": "library",
     "description": "Visual paginator for Nette Framework",
     "keywords": [
-        "nette",
-        "ipub",
-        "ipublikuj",
-        "tools",
-        "paginator",
-        "paging"
+
     ],
-    "homepage": "https://github.com/iPublikuj/visual-paginator",
     "license": [
         "BSD-3-Clause",
         "GPL-2.0",
         "GPL-3.0"
     ],
     "authors": [
-        {
-            "name": "iPublikuj:cms",
-            "email": "info@ipublikuj.eu",
-            "homepage": "http://www.ipublikuj.eu/"
-        },
-        {
-            "name": "David Grudl",
-            "email": "david@grudl.com"
-        }
+
     ],
     "support": {
-        "email": "support@ipublikuj.eu",
-        "issues": "https://github.com/iPublikuj/visual-paginator/issues"
     },
     "require": {
         "php": "^8.0",
